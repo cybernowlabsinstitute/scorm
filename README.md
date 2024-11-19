@@ -11,7 +11,7 @@
     ```
 1. Rezip the directory (it should be the name of the directory, eg. `c01_s02_installing_a_hypervisor_click.zip`)
 1. Upload zip to the `main` branch of https://github.com/cybernowlabsinstitute/scorm
-1. After a short time, the SCORM should be viewable at `https://scorm.cybernowlabsinstitute.com/scorm/<directory_name>/index_scorm.html`
+1. After a short time, the SCORM should be viewable at `https://scorm.cybernowlabsinstitute.com/<directory_name>/index_scorm.html`
 1. You can use this plugin code
    ```html
     <iframe
